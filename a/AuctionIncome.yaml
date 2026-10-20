@@ -1,0 +1,16 @@
+name: AuctionIncome
+alias: Auction Income
+description: Counts auction income and purchase spending only for the items you pick, with date and time of every sale, lost lot deposits and daily/weekly/monthly totals.
+author: Ako/Defou1t
+repo: Defou1t/AuctionIncome
+branch: main
+tags:
+  - Economy
+  - QoL
+keywords:
+  - auction
+  - income
+  - profit
+  - gold
+  - regrade
+  - statistics
