@@ -1,6 +1,6 @@
 name: AuctionIncome
 alias: Auction Income
-description: Counts auction income and purchase spending only for the items you pick, with date and time of every sale, lost lot deposits and daily/weekly/monthly totals.
+description: Counts auction income and purchase spending only for the items you pick, with date and time of every sale, lost lot deposits and daily/weekly/monthly totals. Includes a labor calculator that records what each activity earns per labor point, with market prices.
 author: Ako/Defou1t
 repo: Defou1t/AuctionIncome
 branch: main
@@ -14,3 +14,5 @@ keywords:
   - gold
   - regrade
   - statistics
+  - labor
+  - calculator
